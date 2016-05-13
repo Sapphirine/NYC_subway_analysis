@@ -1,0 +1,36 @@
+{
+    "version": "1.0",
+    "rowId": null,
+    "targetAttributeName": "output",
+    "dataFormat": "CSV",
+    "dataFileContainsHeader": false,
+    "attributes": [
+        {
+            "attributeName": "tripId",
+            "attributeType": "CATEGORICAL"
+        },
+        {
+            "attributeName": "trip_start_time",
+            "attributeType": "NUMERIC"
+        },
+        {
+            "attributeName": "route",
+            "attributeType": "CATEGORICAL"
+        },
+        {
+            "attributeName": "time_96",
+            "attributeType": "NUMERIC"
+        },
+        {
+            "attributeName": "time_42",
+            "attributeType": "NUMERIC"
+
+        },
+        {
+            "attributeName": "output",
+            "attributeType": "BINARY"
+
+        }
+        
+    ]
+}
